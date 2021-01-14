@@ -1,0 +1,10 @@
+# Python packages
+# install with python3 -m pip install -r requirements.txt
+# python3 -m venv env
+# source env/bin/activate
+lxml #-4.6.2
+numpy #-1.19.5
+pandas #-1.2.0
+selenium #-3.141.0
+requests #-2.25.1
+

@@ -1,3 +1,7 @@
+#Chrome driver
+chromedriver*
+google-chrome-*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
