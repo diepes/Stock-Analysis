@@ -11,3 +11,5 @@ requests #-2.25.1
 #used for pandas markdown output
 tabulate #-0.8.7
 
+wheel #-0.36.2
+openpyxl #-3.0.6
