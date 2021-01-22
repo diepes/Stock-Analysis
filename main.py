@@ -1,6 +1,6 @@
 #!env/bin/python3
 ''' Cobus Smit 2021
-    started from
+    started from 
     https://www.mattbutton.com/2019/01/24/how-to-scrape-yahoo-finance-and-extract-fundamental-stock-market-data-using-python-lxml-and-pandas/
 
 '''
